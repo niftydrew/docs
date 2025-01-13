@@ -1,6 +1,6 @@
 {
   "$schema": "https://mintlify.com/schema.json",
-  "name": "Starter Kit",
+  "name": "Substruct",
   "logo": {
     "dark": "/logo/dark.svg",
     "light": "/logo/light.svg"
@@ -11,8 +11,8 @@
     "light": "#FFFFFF",
     "dark": "#111111",
     "anchors": {
-      "from": "#0D9373",
-      "to": "#07C983"
+      "from": "#111111",
+      "to": "#333333"
     }
   },
   "topbarLinks": [
